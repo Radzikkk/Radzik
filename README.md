@@ -1,5 +1,5 @@
 <h1 align="center">👋 Cześć! Jestem Radzikk</h1>
-<h3 align="center">💻 Przyszły Frontend Developer z pasją do tworzenia stron internetowych</h3>
+<h3 align="center">💻 Przyszły Frontend Developer</h3>
 
 ---
 
@@ -18,8 +18,6 @@
    - ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
 - **💾 Bazy danych:**  
    - ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)  
-- **📁 Inne:**  
-   - ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)  
 
 ---
 
@@ -30,23 +28,20 @@
 | **Technologia** | **Poziom znajomości** |  
 |------------------|-----------------------|  
 | 🟧 **HTML**     | **80%**              |  
-| 🟦 **CSS**      | **70%**              |  
+| 🟦 **CSS**      | **90%**              |  
 | 🟨 **JavaScript** | **50%**            |  
-| 🟦 **MySQL**    | **60%**              |  
+| 🟦 **MySQL**    | **80%**              |  
 
 ---
 
 ## 📫 **Kontakt ze mną**  
-- 📧 **Email:** [TwójEmail@example.com](mailto:TwójEmail@example.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/TwojProfil](https://linkedin.com/in/TwojProfil)  
-- 🌍 **Portfolio:** [Twój Portfolio (jeśli masz)](https://TwojePortfolio.com)  
+- 📧 **Discord:** radzikk__  
+- 💼 **Discord:** https://discord.gg/2DwVyM5K 
 
 ---
 
-## 🧠 **Cel na ten rok:**  
-- 🚀 Opanować **JavaScript** na poziomie zaawansowanym  
+## 🧠 **Cele:**  
+- 🚀 Nauka JavaScript
 - 🛠️ Stworzyć własny projekt webowy  
 
 ---
-
-✨ *Dziękuję za odwiedzenie mojego profilu! Koduj, ucz się i twórz niesamowite projekty!* 🚀  
