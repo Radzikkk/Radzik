@@ -15,7 +15,7 @@
 
 ## 📊 **Moje Umiejętności w Procentach**
 
-![Umiejętności](https://github-readme-stats.vercel.app/api/top-langs/?username=Twoje_Użytkownik&layout=compact&langs_count=4&theme=radical)  
+![Umiejętności](https://github-readme-stats.vercel.app/api/top-langs/?username=Radzikkk&layout=compact&langs_count=4&theme=radical)  
 
 | **Technologia** | **Poziom znajomości** |  
 |------------------|-----------------------|  
