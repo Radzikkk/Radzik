@@ -1,14 +1,6 @@
 <h1 align="center">👋 Cześć! Jestem Radzikk</h1>
 <h3 align="center">💻 Przyszły Frontend Developer</h3>
 
----
-
-## 🚀 **O mnie**  
-- 🎓 Uczę się **JavaScript** i rozwijam swoje umiejętności w technologiach frontendowych.  
-- 🌱 Aktualnie pracuję nad projektami, które pomagają mi zrozumieć złożone aspekty frontend developmentu.  
-- ⚡ Ciekawostka: Uwielbiam eksperymentować z interaktywnymi animacjami i efektami na stronach.  
-
----
 
 ## 🛠️ **Umiejętności**
 
